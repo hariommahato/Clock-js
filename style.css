@@ -1,0 +1,19 @@
+#clockBox{
+    background-color:grey;
+    width: 80%;
+    margin: auto;
+    height: 30rem;
+    color: white;
+    font-size: 4rem;
+    position: relative;
+    
+}
+#clockBox h3{
+    position: absolute;
+    left: 20rem;
+}
+#times{
+    position: absolute;
+    top:7rem;
+    left:20rem;
+}
